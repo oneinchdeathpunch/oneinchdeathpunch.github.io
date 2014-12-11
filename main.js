@@ -1,4 +1,4 @@
-var myName = "Hello, My name is Ellis.";
+var myName = "Hello, Ellis";
 
 var red = [0, 100, 63];
 var orange = [40, 100, 60];
@@ -9,13 +9,7 @@ var letterColors = [red, orange, green, blue, purple];
 
 drawName(myName, letterColors);
 
-if(false)
-{
     bubbleShape = 'square';
-}
-else
-{
-    bubbleShape = 'circle';
-}
+
 
 bounceBubbles();
